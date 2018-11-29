@@ -1,6 +1,7 @@
 package com.xingchen.mybatisxml.mapper;
 
 import com.xingchen.mybatisxml.model.User;
+import com.xingchen.mybatisxml.param.UserParam;
 
 import java.util.List;
 

@@ -1,5 +1,5 @@
 package com.xingchen.mybatisxml.enums;
 
-public class UserSexEnum {
+public enum  UserSexEnum {
     MAN, WOMAN
 }
