@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="137471e3-0a1a-466f-b2d6-7a02562442bc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation/src/main/java/com/xingchen/mybatisannotation/result/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-xml/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-annotation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-annotation/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +15,11 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springbootjpa/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="703">
               <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
@@ -30,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/mybatis-annotation/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="632">
-              <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -38,7 +37,7 @@
       <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis-annotation/src/main/java/com/xingchen/mybatisannotation/mapper/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
+            <state relative-caret-position="1007">
               <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -49,9 +48,7 @@
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis-xml/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-223" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -86,8 +83,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,16 +98,10 @@
               <item name="spring-boot-learn" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-boot-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,15 +180,15 @@
       <workItem from="1542936412462" duration="448000" />
       <workItem from="1543280187832" duration="575000" />
       <workItem from="1543761051116" duration="773000" />
+      <workItem from="1543883623102" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1796000" />
+    <option name="totallyTimeSpent" value="1816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="960" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -211,7 +203,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info anchor="bottom" id="Problems" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -235,14 +227,39 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mybatis-xml/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springbootjpa/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223" />
+        <state relative-caret-position="703">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-annotation/src/main/java/com/xingchen/mybatisannotation/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
+        <state relative-caret-position="1007">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-xml/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-annotation/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-xml/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-annotation/src/main/java/com/xingchen/mybatisannotation/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
           <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -252,7 +269,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springbootjpa/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="703">
           <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
         </state>
       </provider>
@@ -260,7 +277,7 @@
     <entry file="file://$PROJECT_DIR$/mybatis-annotation/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="632">
-          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
         </state>
       </provider>
     </entry>
