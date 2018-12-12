@@ -47,7 +47,7 @@ public class UserController {
         user.setRegTime(new Date());
         //保存
         userRepository.save(user);
-        return "redirect:/list";
+        return "redirect:/user/list";
     }
 
     @RequestMapping("/list")
